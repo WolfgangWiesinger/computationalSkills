@@ -1,5 +1,5 @@
 # This is my README for the class project
-## Thats a second level title
+## THIS IS THIRD LEVEL
 
 this will be a list of commands
 * ls , list directory
